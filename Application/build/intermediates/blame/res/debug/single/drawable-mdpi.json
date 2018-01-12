@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\AndroidStudio\\DoneBar\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_cancel.png",
+        "source": "E:\\AndroidStudio\\DoneBar\\Application\\src\\main\\res\\drawable-mdpi\\ic_action_cancel.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\DoneBar\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_done.png",
+        "source": "E:\\AndroidStudio\\DoneBar\\Application\\src\\main\\res\\drawable-mdpi\\ic_action_done.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\DoneBar\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\AndroidStudio\\DoneBar\\Application\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]
